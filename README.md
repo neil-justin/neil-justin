@@ -1,4 +1,4 @@
-- 👋 Hello, my name is Neil Justin Mallari. I am a passionate individual who is actively seeking knowledge to quench my thirst for all things computer science.
+- 👋 Hello, my name is Neil Justin Mallari. I am a passionate young man who is actively seeking knowledge to quench my thirst for all things computer science.
 - 👀 I’m interested in computer science 
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me? Discord @neil-justin
