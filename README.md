@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on honing my skills with anything web development-related<br>👯 I’m looking to collaborate on developing an open-source web app<br>🤝 I’m looking for help with theoretical and conceptual computer science concepts<br>🌱 I’m currently learning vanilla JavaScript<br>💬 Ask me about anything web development-related<br>⚡ Fun fact: aside from my growing interest with technologies, I am also kinda and quite interested with math and physical science! I am studying the aforementioned subjects on my spare time.
+🔭 I’m currently working on honing my skills with anything web development-related<br>👯 I’m looking to collaborate on developing an open-source web app<br>🌱 I’m currently learning vanilla JavaScript<br>💬 Ask me about anything web development-related<br>⚡ Fun fact: aside from my growing interest with technologies, I am also kinda and quite interested with math and physical science! I am studying the aforementioned subjects on my spare time.
 
 
 ## 🌐 Socials:
